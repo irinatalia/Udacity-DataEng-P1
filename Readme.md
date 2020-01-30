@@ -1,10 +1,3 @@
-Please, complete the README file.
-
-Talk about Project Repository files.
-Talk about Database Design.
-Talk about ETL Process (pipeline).
-I would encourage you to use images, like screenshots of your final tables.
-
 
 # PROJECT: Data Modelling with Postgres
 # Summary
